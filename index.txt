@@ -1,0 +1,4 @@
+<html>
+<body>
+<p>click<input type="button" name="b1" size="5" value="click"
+</html>
